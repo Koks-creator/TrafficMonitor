@@ -4,6 +4,7 @@ Upgraded version of: https://github.com/Koks-creator/CarsDetectionCountingSpeedE
 New featues:
 - usage of SORT algorithm to track vehicles (https://github.com/abewley/sort)
 - app is now more parameterized, so you can create configs for specific scenarios
+- saving images of cars that broke speed limit
 
 Here you can download a model: https://drive.google.com/drive/u/0/folders/1rKrcRl0nhyHFPAiugfHZpC92PeO-Ou8S
 
