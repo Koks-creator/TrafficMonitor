@@ -1,11 +1,11 @@
 from collections import deque
 import cv2
 
-from VehiclesDetector.RoadTrafficAnalysis.detector import Detector
-from VehiclesDetector.RoadTrafficAnalysis.sortalg import *
-from VehiclesDetector.RoadTrafficAnalysis.utils import ObjectData, Area
-from VehiclesDetector.RoadTrafficAnalysis.VideoConfigs import video_config
-from VehiclesDetector.RoadTrafficAnalysis.config import Config
+from RoadTrafficAnalysis.detector import Detector
+from RoadTrafficAnalysis.sortalg import *
+from RoadTrafficAnalysis.utils import ObjectData, Area
+from RoadTrafficAnalysis.VideoConfigs import video_config
+from RoadTrafficAnalysis.config import Config
 
 config = Config()
 detector = Detector(
