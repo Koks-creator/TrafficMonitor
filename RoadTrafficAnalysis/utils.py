@@ -6,7 +6,7 @@ from typing import Tuple, Union, List
 import cv2
 import numpy as np
 
-from RoadTrafficAnalysis.kalman_filter import KalmanFilter
+from kalman_filter import KalmanFilter
 
 
 @dataclass
